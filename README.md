@@ -69,6 +69,7 @@ Learning Online Sale
 - > 7- Seizoensgebonden
 - > 8- Bron van het product
 # <hr>
+# <hr>
 
 1- Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
 
