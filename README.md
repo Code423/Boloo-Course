@@ -68,7 +68,7 @@ Learning Online Sale
 - > 6- Niche uitbreiding
 - > 7- Seizoensgebonden
 - > 8- Bron van het product
-## ---
+## ***
 
 1- Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
 
