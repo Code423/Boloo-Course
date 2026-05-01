@@ -42,7 +42,7 @@ Learning Online Sale
 6- De kwaliteit van een listing HEEL belangrijk:
 
 - > Het perspectief van de klant: Is de kracht van een goede listing
-  > Kwaliteit van de productfoto's: Pakkende & complete product beschrijving
+- > Kwaliteit van de productfoto's: Pakkende & complete product beschrijving
 ---
 
 7- Niche uitbreiding:
