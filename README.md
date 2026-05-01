@@ -28,7 +28,7 @@ Learning Online Sale
 3- Hoe minder aanbieders, hoe beter (voor dezelfde omzet):
 
 - > Minder aanbieders: vaak niche producten
-  > Meer aanbieders: niet altijd slecht. De product meer wordt gevraagd. Je kunt concurenten met (Eignescahppen, vul set of kleur...).
+- > Meer aanbieders: niet altijd slecht. De product meer wordt gevraagd. Je kunt concurenten met (Eignescahppen, vul set of kleur...).
 ---
 
 5-  De verkoop prijs:
