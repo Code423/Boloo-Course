@@ -119,6 +119,7 @@ Learning Online Sale
         - > Meer dan 100 producten, doel 200
         - > Regel 1: niet teveel in detail gaan!
         - > Regel 2: producten bijhouden
+  finish
       
 
 
