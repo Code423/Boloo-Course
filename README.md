@@ -70,11 +70,11 @@ Learning Online Sale
 - > 8- Bron van het product
 <hr>
 
-9- MODULE 11: Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
+- MODULE 11: Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
 
 - > Het niet simpel weg dat je een product copie, past maakt dan 1000.000 euro verdienen.
 
-- Platforms gebruiken:
+1- Platforms gebruiken:
 
 - > 1- Boloo
 - > 2- Amazon
@@ -88,9 +88,9 @@ Learning Online Sale
 - > 10- Alibaba/Express
 <hr>
 
-10- MODULE 12: DE MEEST GEMAAKTE FOUTEN BIJ PRODUCTONDERZOEK:
+- MODULE 12: DE MEEST GEMAAKTE FOUTEN BIJ PRODUCTONDERZOEK:
 
-- Alle fouten op een rijtje:
+1- Alle fouten op een rijtje:
   
 - > Fout 1: Niet valideren: Geen data hebben
 - > Fout 2: Inkopen gebaseerd op emoties: Dat je het product leuk vindt zonder onderzoek of data
@@ -100,7 +100,24 @@ Learning Online Sale
 - > Fout 6: De knoop niet doorhakken: Dat je te lang zet te denken als je de product koopt of niet door engst.
 ## Laat de "DATA" praten!
 
+- MODULE 13: PRODUCT RESEARCH:
 
+- > De #1 product research methode voor e-commerce:
+  
+  - > De vernieuwde O.V.O.F Methode;
+    
+    - > Ontdekken: de breedte ingaan op alle besproken Platforms om interesanten producten te vinden
+    - > Valideren: de massa filteren en de onwinste producten uithalen
+    - > Onderzoeken: de werkelijke potentie ontdekken (De beste 5 potentie producten), ***Hoe beter de onderzoek is hoe beter winst producten vinden***.
+    - > Filteren: de beste producten Kiezen & Inkopen
+
+
+  -1 Ontdekkingsfase:
+    ***- Zoveel mogelijk potentiële producten verzamelen***
+      - > Meer dan 100 producten, doel 200
+      - > Regel 1: niet teveel in detail gaan!
+      - > Regel 2: producten bijhouden
+      
 
 
 
