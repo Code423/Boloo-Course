@@ -112,13 +112,13 @@ Learning Online Sale
     - > Filteren: de beste producten Kiezen & Inkopen
 
 
-  -1 Ontdekkingsfase:
+  1- Ontdekkingsfase:
   
-    ***- Zoveel mogelijk potentiële producten verzamelen***
+    - *** Zoveel mogelijk potentiële producten verzamelen***
   
-      - > Meer dan 100 producten, doel 200
-      - > Regel 1: niet teveel in detail gaan!
-      - > Regel 2: producten bijhouden
+        - > Meer dan 100 producten, doel 200
+        - > Regel 1: niet teveel in detail gaan!
+        - > Regel 2: producten bijhouden
       
 
 
