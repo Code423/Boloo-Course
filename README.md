@@ -77,7 +77,7 @@ Learning Online Sale
 1- Platforms gebruiken:
 
 - > 1- Boloo
-- > 2- Amazon
+- > 2- Zalando/Amazon-trends
 - > 3- E-commerce Nederlandse websites
 - > 4- Retail winkels: Beurzen, Action, Ikea, rondje in de stad ( Om te zien wat andere mensen niet zien )
 - > 5- Fnac & Darty: dat zijn Franse bol.com
@@ -86,6 +86,7 @@ Learning Online Sale
 - > 8- JD: Is de Amazon van China. De producten die erop staan vind je ook op Alibaba/Express
 - > 9- Taobao: Ook voor chinze markt
 - > 10- Alibaba/Express
+- > 11- marktplaats-data
 <hr>
 
 - MODULE 12: DE MEEST GEMAAKTE FOUTEN BIJ PRODUCTONDERZOEK:
