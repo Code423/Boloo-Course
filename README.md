@@ -108,7 +108,7 @@ Learning Online Sale
   - > De vernieuwde O.V.O.F Methode;
     
     - > Ontdekken: de breedte ingaan op alle besproken Platforms om interesanten producten te vinden
-    - > Valideren: de massa filteren en de onwinste producten uithalen
+    - > Valideren: de massa filteren en de onwinste producten uithalen ( Hoe sterk is de WANT & NEED) van de klant
     - > Onderzoeken: de werkelijke potentie ontdekken (De beste 5 potentie producten), ***Hoe beter de onderzoek is hoe beter winst producten vinden***.
     - > Filteren: de beste producten Kiezen & Inkopen
 
@@ -120,11 +120,65 @@ Learning Online Sale
         - > Meer dan 100 producten, doel 200
         - > Regel 1: niet teveel in detail gaan!
         - > Regel 2: producten bijhouden
-  finish
-      
 
+  2- Validatiefase:
 
+- MODULE 15: VALIDEERFASE:
 
+  ***- Data-driven je producten valideren***
+     
+       - > Minder 2000 winst producten weggoeien
+
+  3- MODULE 16: ONDERZOEKSFASE:
+  
+    ***- De werkelijke potentie van producten ontdekken***
+
+      - > 1- Eigenschap: De geschatte maandelijkse winst:
+  
+              - De omzet, inkoop en overige kosten weten
+              - Winst product = omzet - kosten
+              - €4000 (omzet) - €2500 (kosten) = €1500 (winst)
+
+      - > 2- Maatstaven voor omzet per maand
+            - €0 - €500: Slecht
+            - €500-€1.000: Matig
+            - €1.000 - €2.000: Gemiddeld
+            - €2.000 - €4.000: Prima
+            - €4.000 - €6.000: Goed
+
+            - €6.000 - €8.000 : Zeer goed
+            - €8.000 - €10.000: Uitstekend
+            - €10.000 - €15.000: Uitstekend +
+            - €15.000 - €20.000: Uitstekend ++
+            - €20.000 en meer : Excellent
+
+      - > 3- Maatstaven voor winstpercentage
+  
+            - 0-10%: Slecht
+            - 10-20%: Matig
+            - 20-30%: Gemiddeld
+            - 30-35%: Prima
+            - 35-40%: Goed
+            
+            - 40-50%: Zeer goed
+            - 50-60%: Uitstekend
+            - 60-70%: Uitstekend +
+            - 70% +: Excellent
+
+      - > 4- Kosten
+  
+            1- Inkoop: Leverancier Alibaba & AliExpress
+            2- Verzending pakketten NL: LvB, PostNL 3-5
+            3- Transport China naar Nederland: Logistieke partij
+            4- Commissiebijdrage bol.com: 1 EUR + 5-15% X 8-10+ factor op de inkoop zit je sowieso goed
+
+      - > 5- Crash course inkoop bepalen voor
+  
+            Alibaba & AliExpress
+              - De MOQ
+              - Tijd actief, Gold Suppliers & Reviews
+              - Prijs per stuk krijgen
+                          
 
 
 
