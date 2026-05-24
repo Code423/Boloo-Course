@@ -133,52 +133,119 @@ Learning Online Sale
   
     ***- De werkelijke potentie van producten ontdekken***
 
-      - > 1- Eigenschap: De geschatte maandelijkse winst:
+      1- Eigenschap: De geschatte maandelijkse winst:
+        
+        - De omzet, inkoop en overige kosten weten
+        - Winst product = omzet - kosten
+        - €4000 (omzet) - €2500 (kosten) = €1500 (winst)
+
+      2- Maatstaven voor omzet per maand
   
-              - De omzet, inkoop en overige kosten weten
-              - Winst product = omzet - kosten
-              - €4000 (omzet) - €2500 (kosten) = €1500 (winst)
+        - €0 - €500: Slecht
+        - €500-€1.000: Matig
+        - €1.000 - €2.000: Gemiddeld
+        - €2.000 - €4.000: Prima
+        - €4.000 - €6.000: Goed
+        
+        - €6.000 - €8.000 : Zeer goed
+        - €8.000 - €10.000: Uitstekend
+        - €10.000 - €15.000: Uitstekend +
+        - €15.000 - €20.000: Uitstekend ++
+        - €20.000 en meer : Excellent
 
-      - > 2- Maatstaven voor omzet per maand
-            - €0 - €500: Slecht
-            - €500-€1.000: Matig
-            - €1.000 - €2.000: Gemiddeld
-            - €2.000 - €4.000: Prima
-            - €4.000 - €6.000: Goed
-
-            - €6.000 - €8.000 : Zeer goed
-            - €8.000 - €10.000: Uitstekend
-            - €10.000 - €15.000: Uitstekend +
-            - €15.000 - €20.000: Uitstekend ++
-            - €20.000 en meer : Excellent
-
-      - > 3- Maatstaven voor winstpercentage
+      3- Maatstaven voor winstpercentage
   
-            - 0-10%: Slecht
-            - 10-20%: Matig
-            - 20-30%: Gemiddeld
-            - 30-35%: Prima
-            - 35-40%: Goed
-            
-            - 40-50%: Zeer goed
-            - 50-60%: Uitstekend
-            - 60-70%: Uitstekend +
-            - 70% +: Excellent
+        - 0-10%: Slecht
+        - 10-20%: Matig
+        - 20-30%: Gemiddeld
+        - 30-35%: Prima
+        - 35-40%: Goed
+        
+        - 40-50%: Zeer goed
+        - 50-60%: Uitstekend
+        - 60-70%: Uitstekend +
+        - 70% +: Excellent
 
-      - > 4- Kosten
+      4- Kosten
   
-            1- Inkoop: Leverancier Alibaba & AliExpress
-            2- Verzending pakketten NL: LvB, PostNL 3-5
-            3- Transport China naar Nederland: Logistieke partij
-            4- Commissiebijdrage bol.com: 1 EUR + 5-15% X 8-10+ factor op de inkoop zit je sowieso goed
+        1- Inkoop: Leverancier Alibaba & AliExpress
+        2- Verzending pakketten NL: LvB, PostNL 3-5
+        3- Transport China naar Nederland: Logistieke partij
+        4- Commissiebijdrage bol.com: 1 EUR + 5-15% X 8-10+ factor op de inkoop zit je sowieso goed
 
-      - > 5- Crash course inkoop bepalen voor
+      5- Crash course inkoop bepalen voor
   
-            Alibaba & AliExpress
-              - De MOQ
-              - Tijd actief, Gold Suppliers & Reviews
-              - Prijs per stuk krijgen
-                          
+        Alibaba & AliExpress
+        - De MOQ
+        - Tijd actief, Gold Suppliers & Reviews
+        - Prijs per stuk krijgen
+
+      6- Verzendkosten binnen NL
+  
+        LvB & MyParcel
+        - Bepaal de afmetingen van het product (Specificaties)
+        - Goedkoop tarief: brievenbus & S afmeting
+        - Normaal tarief: M afmeting
+        - PostNL & MyParcel: €3,90 > €5,95
+        - Ons product: €4,75
+
+        | Maat | Kosten per artikel | Kosten per bezorging | Totaal per besteld artikel (= Kosten per artikel + Kosten per bezorging) 
+        | :--- | :-----------------: | :------------------: | :----------------------------------------------------------------------: 
+        | **XS**| € 1,40               | € 1,80               | € 3,20                                                                   
+        | **S** | € 1,50               | € 2,50               | € 4,00                                                                   
+        | **M** | € 1,75               | € 3,00               | € 4,75                                                                   
+        | **L** | € 2,00               | € 3,50               | € 5,50                                                                   
+                                    
+
+      7- Transport producten van
+  
+        China naar Nederland
+        1. Transport met de leverancier: duur
+        2. Transport met een forwarder: voordelig
+
+      8- Prijs forwarder
+  
+        - Gemiddeld €3,50 per KG
+        - Hoeveel KG zijn je producten?
+        - 50 stuks van ons baby niche product:
+        - Verzendkosten: 15 KG totaal > 15 x €3,50 = €52,50
+        - Invoerrechten: Ongeveer 5% van inkoopwaarde > €10,-
+        - Inklaringskosten: €20,-
+        **€82,50 totaal transport van China naar Nederland**
+
+      ### Blueprint Map Invullen
+  
+      9- Het puntensysteem voor de "KOLOM" winst
+  
+        Je minimale winst verhoog je met 100%
+        Stel, je minimale winst is 400 euro
+        1: €400 - €800 (1 punt)
+        2: €800 - €1200 (2 punten)
+        3: €1200 - €1600 (3 punten)
+        4: €1600 - €2000 (4 punten)
+        5: €2000+ (5 punten)
+        Dit product krijgt dus 3 punten in de blueprint map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
