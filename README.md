@@ -168,10 +168,10 @@ Learning Online Sale
 
     4- Kosten
 
-      1- Inkoop: Leverancier Alibaba & AliExpress
-      2- Verzending pakketten NL: LvB, PostNL 3-5
-      3- Transport China naar Nederland: Logistieke partij
-      4- Commissiebijdrage bol.com: 1 EUR + 5-15% X 8-10+ factor op de inkoop zit je sowieso goed
+      1- Inkoop: Leverancier Alibaba & AliExpress<br>
+      2- Verzending pakketten NL: LvB, PostNL 3-5<br>
+      3- Transport China naar Nederland: Logistieke partij<br>
+      4- Commissiebijdrage bol.com: 1 EUR + 5-15% X 8-10+ factor op de inkoop zit je sowieso goed<br>
 
     5- Crash course inkoop bepalen voor
   
