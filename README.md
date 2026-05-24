@@ -70,7 +70,7 @@ Learning Online Sale
 - > 8- Bron van het product
 <hr>
 
-# - MODULE 11: Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
+### - MODULE 11: Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
 
   - > Het niet simpel weg dat je een product copie, past maakt dan 1000.000 euro verdienen.
   
@@ -101,7 +101,7 @@ Learning Online Sale
   - > Fout 6: De knoop niet doorhakken: Dat je te lang zet te denken als je de product koopt of niet door engst.
   ## Laat de "DATA" praten!
 
-- MODULE 13: PRODUCT RESEARCH:
+### - MODULE 13: PRODUCT RESEARCH:
   
   - > De #1 product research methode voor e-commerce:
     
@@ -123,13 +123,13 @@ Learning Online Sale
   
     2- Validatiefase:
 
-- MODULE 15: VALIDEERFASE:
+### - MODULE 15: VALIDEERFASE:
 
   ***- Data-driven je producten valideren***
      
        - > Minder 2000 winst producten weggoeien
 
-- MODULE 16: ONDERZOEKSFASE:
+### - MODULE 16: ONDERZOEKSFASE:
   
   ***- De werkelijke potentie van producten ontdekken***
 
