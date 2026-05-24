@@ -70,7 +70,7 @@ Learning Online Sale
 - > 8- Bron van het product
 <hr>
 
-- MODULE 11: Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
+# - MODULE 11: Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
 
   - > Het niet simpel weg dat je een product copie, past maakt dan 1000.000 euro verdienen.
   
@@ -89,7 +89,7 @@ Learning Online Sale
   - > 11- Global Sources: Hong Kong Webshop
 <hr>
 
-- MODULE 12: DE MEEST GEMAAKTE FOUTEN BIJ PRODUCTONDERZOEK:
+### - MODULE 12: DE MEEST GEMAAKTE FOUTEN BIJ PRODUCTONDERZOEK:
 
   1- Alle fouten op een rijtje:
     
