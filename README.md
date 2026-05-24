@@ -259,8 +259,8 @@ Learning Online Sale
 
     5- Eigenschap 4: Ga je het product intrinsiek veranderen? "KOLOM" (OV)
 
-      Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
-      Ja: 1
+      Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.<br>
+      Ja: 1<br>
       Nee: 0
 
     6- Eigenschap 5: Verkoopprijs vand de product verhoging als je hem zou verbeteren of iets ertoe wil voegen "KOLOM" (HIGH TICKET)<br>
@@ -271,32 +271,32 @@ Learning Online Sale
       - Goedkoop product: 0
 
     7- Eigenschap 6: Wat is de kwaliteit van de listings? "KOLOM" (LISTING)<br>
-       Check 3-5 listing van de concurrenten te beoordelen.
+       Check 3-5 listing van de concurrenten te beoordelen.<br>
     Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
 
-      1- Uitstekend
-      2- Zeer goed
-      3- Gemiddeld
-      4- Matig
-      5- Slecht
+      1- Uitstekend<br>
+      2- Zeer goed<br>
+      3- Gemiddeld<br>
+      4- Matig<br>
+      5- Slecht<br>
       Had je het zelf gekocht?
 
     8- Eigenschap 7: Seizoensgebonden "KOLOM" (SEIZOEN)
   
       Wordt het product het hele jaar door verkocht, maar is er
-      een periode dat het product aanzienlijk meer sales heeft?
-      Ja: 1
+      een periode dat het product aanzienlijk meer sales heeft?<br>
+      Ja: 1<br>
       Nee: 0
       
-      Zo ja, is deze periode in de aankomende 6 maanden?
-      Ja: 2
+      Zo ja, is deze periode in de aankomende 6 maanden?<br>
+      Ja: 2<br>
       Nee: 0
 
     9- Eigenschap 7: Niche uitbreiding "KOLOM" (NICH UIBREIDING)
         
       Is dit een product in een niche waar jij je uit kunt breiden
-      met een merk in de toekomst?
-      Ja: 1
+      met een merk in de toekomst?<br>
+      Ja: 1<br>
       Nee: 0
 
     10- Eigenschap 9: Track record fabriek "KOLOM" (FABRIEK)
@@ -304,9 +304,9 @@ Learning Online Sale
       Heeft het product de juiste MOQ en wat is de track record van de fabriek?
       
       Kijk naar: omzet, communicatie snelheid, gold supplier, reviews,
-      orders export landen.
+      orders export landen.<br>
       
-      Goed: 1
+      Goed: 1<br>
       Slecht: 0
 <hr>
 
