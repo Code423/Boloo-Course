@@ -74,19 +74,19 @@ Learning Online Sale
 
   - > Het niet simpel weg dat je een product copie, past maakt dan 1000.000 euro verdienen.
   
-  ### 1- Platforms gebruiken:
+  1- Platforms gebruiken:
   
-  - > 1- Boloo
-  - > 2- Amazon
-  - > 3- E-commerce Nederlandse websites
-  - > 4- Retail winkels: Beurzen, Action, Ikea, rondje in de stad ( Om te zien wat andere mensen niet zien )
-  - > 5- Fnac & Darty: dat zijn Franse bol.com
-  - > 6- Rakuten: (Grootste) Japanse & Duitse verkoopplatform
-  - > 7- Pinterest: Het is niet een verkoper platform, maar wel voor Ideeën en inspiratie
-  - > 8- JD: Is de Amazon van China. De producten die erop staan vind je ook op Alibaba/Express
-  - > 9- Taobao: Ook voor chinze markt
-  - > 10- Alibaba/Express
-  - > 11- Global Sources: Hong Kong Webshop
+    - > 1- Boloo
+    - > 2- Amazon
+    - > 3- E-commerce Nederlandse websites
+    - > 4- Retail winkels: Beurzen, Action, Ikea, rondje in de stad ( Om te zien wat andere mensen niet zien )
+    - > 5- Fnac & Darty: dat zijn Franse bol.com
+    - > 6- Rakuten: (Grootste) Japanse & Duitse verkoopplatform
+    - > 7- Pinterest: Het is niet een verkoper platform, maar wel voor Ideeën en inspiratie
+    - > 8- JD: Is de Amazon van China. De producten die erop staan vind je ook op Alibaba/Express
+    - > 9- Taobao: Ook voor chinze markt
+    - > 10- Alibaba/Express
+    - > 11- Global Sources: Hong Kong Webshop
 <hr>
 
 ### - MODULE 12: DE MEEST GEMAAKTE FOUTEN BIJ PRODUCTONDERZOEK:
@@ -99,7 +99,7 @@ Learning Online Sale
   - > Fout 4: Subjectief zijn: Je Aannames maken
   - > Fout 5: Te snel opgeven
   - > Fout 6: De knoop niet doorhakken: Dat je te lang zet te denken als je de product koopt of niet door engst.
-  ## Laat de "DATA" praten!
+  **Laat de "DATA" praten!**
 
 ### - MODULE 13: PRODUCT RESEARCH:
   
@@ -125,13 +125,13 @@ Learning Online Sale
 
 ### - MODULE 15: VALIDEERFASE:
 
-  ***- Data-driven je producten valideren***
+  - Data-driven je producten valideren
      
        - > Minder 2000 winst producten weggoeien
 
 ### - MODULE 16: ONDERZOEKSFASE:
   
-  ***- De werkelijke potentie van producten ontdekken***
+  - De werkelijke potentie van producten ontdekken
 
     1- Eigenschap: De geschatte maandelijkse winst:
         
