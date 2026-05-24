@@ -218,11 +218,11 @@ Learning Online Sale
   
       Je minimale winst verhoog je met 100%
       Stel, je minimale winst is 400 euro
-      1: €400 - €800 (1 punt)
-      2: €800 - €1200 (2 punten)
-      3: €1200 - €1600 (3 punten)
-      4: €1600 - €2000 (4 punten)
-      5: €2000+ (5 punten)
+      - €400 - €800 (1 punt)
+      - €800 - €1200 (2 punten)
+      - €1200 - €1600 (3 punten)
+      - €1600 - €2000 (4 punten)
+      - €2000+ (5 punten)<br>
       Dit product krijgt dus 3 punten in de blueprint map
 
     2- Eigenschap 2: wat voor/soort product is het? "KOLOM" (SOORT)
@@ -240,23 +240,22 @@ Learning Online Sale
 
     3- Eigenschap 3: Hoeveel concurrenten heeft het product? "KOLOM" (CONCERRENTEN)
   
-      1- 20+ concurrenten (1 punt)
-      2- 11-20 concurrenten (2 punten) NIET POSITIEF -> GEMMIDELD
-      3- 6-10 concurrenten (3 punten)
-      4- 2-5 concurrenten (4 punten)
-      5- 0-1 concurrenten (5 punten)
+      - 20+ concurrenten (1 punt)
+      - 11-20 concurrenten (2 punten) NIET POSITIEF -> GEMMIDELD
+      - 6-10 concurrenten (3 punten)
+      - 2-5 concurrenten (4 punten)
+      - 0-1 concurrenten (5 punten)
       
-    4- Eigenschap 3: Geen concurrenten of een onderscheidend
-      product dat nog niet op bol.com staat? "KOLOM" (TOP OMZET)<br>
+    4- Eigenschap 3: Geen concurrenten of een onderscheidend product dat nog niet op bol.com staat? "KOLOM" (TOP OMZET)<br>
 
-      Geef de punten gebaseerd op de totale omzet van de top aanbieders.<br>
-      Soortgelijke producten die dezelfde vraag oplossen
+      - Geef de punten gebaseerd op de totale omzet van de top aanbieders.<br>
+      Soortgelijke producten die dezelfde vraag oplossen:
         
-      1- 0-10 - Duizend € (1 punt)
-      2- 10-20 - Duizend € (2 punten)
-      3- 20-30 - Duizend € (3 punten)
-      4- 30-40 - Duizend € (4 punten)
-      5- 40+ - Duizend € (5 punten)
+      - 0-10 - Duizend € (1 punt)
+      - 10-20 - Duizend € (2 punten)
+      - 20-30 - Duizend € (3 punten)
+      - 30-40 - Duizend € (4 punten)
+      - 40+ - Duizend € (5 punten)
 
     5- Eigenschap 4: Ga je het product intrinsiek veranderen? "KOLOM" (OV)
 
