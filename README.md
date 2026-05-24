@@ -197,11 +197,10 @@ Learning Online Sale
       | **L** | € 2,00               | € 3,50               | € 5,50                                                                   
                                     
 
-    7- Transport producten van
+    7- Transport producten van China naar Nederland
   
-      China naar Nederland
-      1. Transport met de leverancier: duur
-      2. Transport met een forwarder: voordelig
+      - Transport met de leverancier: duur
+      - Transport met een forwarder: voordelig
 
     8- Prijs forwarder
   
