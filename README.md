@@ -213,7 +213,7 @@ Learning Online Sale
         - Inklaringskosten: €20,-
         **€82,50 totaal transport van China naar Nederland**
 
-      ### Blueprint Map Invullen
+    ### Blueprint Map Invullen
   
       9- Het puntensysteem voor de "KOLOM" winst
   
