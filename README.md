@@ -72,56 +72,56 @@ Learning Online Sale
 
 - MODULE 11: Productonderzoek gaat om (Ideeën, inspiratie en kansen zien):
 
-- > Het niet simpel weg dat je een product copie, past maakt dan 1000.000 euro verdienen.
-
-### 1- Platforms gebruiken:
-
-- > 1- Boloo
-- > 2- Amazon
-- > 3- E-commerce Nederlandse websites
-- > 4- Retail winkels: Beurzen, Action, Ikea, rondje in de stad ( Om te zien wat andere mensen niet zien )
-- > 5- Fnac & Darty: dat zijn Franse bol.com
-- > 6- Rakuten: (Grootste) Japanse & Duitse verkoopplatform
-- > 7- Pinterest: Het is niet een verkoper platform, maar wel voor Ideeën en inspiratie
-- > 8- JD: Is de Amazon van China. De producten die erop staan vind je ook op Alibaba/Express
-- > 9- Taobao: Ook voor chinze markt
-- > 10- Alibaba/Express
-- > 11- Global Sources: Hong Kong Webshop
+  - > Het niet simpel weg dat je een product copie, past maakt dan 1000.000 euro verdienen.
+  
+  ### 1- Platforms gebruiken:
+  
+  - > 1- Boloo
+  - > 2- Amazon
+  - > 3- E-commerce Nederlandse websites
+  - > 4- Retail winkels: Beurzen, Action, Ikea, rondje in de stad ( Om te zien wat andere mensen niet zien )
+  - > 5- Fnac & Darty: dat zijn Franse bol.com
+  - > 6- Rakuten: (Grootste) Japanse & Duitse verkoopplatform
+  - > 7- Pinterest: Het is niet een verkoper platform, maar wel voor Ideeën en inspiratie
+  - > 8- JD: Is de Amazon van China. De producten die erop staan vind je ook op Alibaba/Express
+  - > 9- Taobao: Ook voor chinze markt
+  - > 10- Alibaba/Express
+  - > 11- Global Sources: Hong Kong Webshop
 <hr>
 
 - MODULE 12: DE MEEST GEMAAKTE FOUTEN BIJ PRODUCTONDERZOEK:
 
-1- Alle fouten op een rijtje:
-  
-- > Fout 1: Niet valideren: Geen data hebben
-- > Fout 2: Inkopen gebaseerd op emoties: Dat je het product leuk vindt zonder onderzoek of data
-- > Fout 3: Geen methode & systeem gebruiken
-- > Fout 4: Subjectief zijn: Je Aannames maken
-- > Fout 5: Te snel opgeven
-- > Fout 6: De knoop niet doorhakken: Dat je te lang zet te denken als je de product koopt of niet door engst.
-## Laat de "DATA" praten!
+  1- Alle fouten op een rijtje:
+    
+  - > Fout 1: Niet valideren: Geen data hebben
+  - > Fout 2: Inkopen gebaseerd op emoties: Dat je het product leuk vindt zonder onderzoek of data
+  - > Fout 3: Geen methode & systeem gebruiken
+  - > Fout 4: Subjectief zijn: Je Aannames maken
+  - > Fout 5: Te snel opgeven
+  - > Fout 6: De knoop niet doorhakken: Dat je te lang zet te denken als je de product koopt of niet door engst.
+  ## Laat de "DATA" praten!
 
 - MODULE 13: PRODUCT RESEARCH:
-
-- > De #1 product research methode voor e-commerce:
   
-  - > De vernieuwde O.V.O.F Methode;
+  - > De #1 product research methode voor e-commerce:
     
-    - > Ontdekken: de breedte ingaan op alle besproken Platforms om interesanten producten te vinden
-    - > Valideren: de massa filteren en de onwinste producten uithalen ( Hoe sterk is de WANT & NEED) van de klant
-    - > Onderzoeken: de werkelijke potentie ontdekken (De beste 5 potentie producten), ***Hoe beter de onderzoek is hoe beter winst producten vinden***.
-    - > Filteren: de beste producten Kiezen & Inkopen
-
-
-  1- Ontdekkingsfase:
-
-    ***- Zoveel mogelijk potentiële producten verzamelen***
+    - > De vernieuwde O.V.O.F Methode;
+      
+      - > Ontdekken: de breedte ingaan op alle besproken Platforms om interesanten producten te vinden
+      - > Valideren: de massa filteren en de onwinste producten uithalen ( Hoe sterk is de WANT & NEED) van de klant
+      - > Onderzoeken: de werkelijke potentie ontdekken (De beste 5 potentie producten), ***Hoe beter de onderzoek is hoe beter winst producten vinden***.
+      - > Filteren: de beste producten Kiezen & Inkopen
   
-        - > Meer dan 100 producten, doel 200
-        - > Regel 1: niet teveel in detail gaan!
-        - > Regel 2: producten bijhouden
-
-  2- Validatiefase:
+  
+    1- Ontdekkingsfase:
+  
+      ***- Zoveel mogelijk potentiële producten verzamelen***
+    
+          - > Meer dan 100 producten, doel 200
+          - > Regel 1: niet teveel in detail gaan!
+          - > Regel 2: producten bijhouden
+  
+    2- Validatiefase:
 
 - MODULE 15: VALIDEERFASE:
 
@@ -129,187 +129,187 @@ Learning Online Sale
      
        - > Minder 2000 winst producten weggoeien
 
-  3- MODULE 16: ONDERZOEKSFASE:
+- MODULE 16: ONDERZOEKSFASE:
   
-    ***- De werkelijke potentie van producten ontdekken***
+  ***- De werkelijke potentie van producten ontdekken***
 
-      1- Eigenschap: De geschatte maandelijkse winst:
+    1- Eigenschap: De geschatte maandelijkse winst:
         
-        - De omzet, inkoop en overige kosten weten
-        - Winst product = omzet - kosten
-        - €4000 (omzet) - €2500 (kosten) = €1500 (winst)
+      - De omzet, inkoop en overige kosten weten
+      - Winst product = omzet - kosten
+      - €4000 (omzet) - €2500 (kosten) = €1500 (winst)
 
-      2- Maatstaven voor omzet per maand
+    2- Maatstaven voor omzet per maand
   
-        - €0 - €500: Slecht
-        - €500-€1.000: Matig
-        - €1.000 - €2.000: Gemiddeld
-        - €2.000 - €4.000: Prima
-        - €4.000 - €6.000: Goed
-        
-        - €6.000 - €8.000 : Zeer goed
-        - €8.000 - €10.000: Uitstekend
-        - €10.000 - €15.000: Uitstekend +
-        - €15.000 - €20.000: Uitstekend ++
-        - €20.000 en meer : Excellent
+      - €0 - €500: Slecht
+      - €500-€1.000: Matig
+      - €1.000 - €2.000: Gemiddeld
+      - €2.000 - €4.000: Prima
+      - €4.000 - €6.000: Goed
+      
+      - €6.000 - €8.000 : Zeer goed
+      - €8.000 - €10.000: Uitstekend
+      - €10.000 - €15.000: Uitstekend +
+      - €15.000 - €20.000: Uitstekend ++
+      - €20.000 en meer : Excellent
 
-      3- Maatstaven voor winstpercentage
+    3- Maatstaven voor winstpercentage
   
-        - 0-10%: Slecht
-        - 10-20%: Matig
-        - 20-30%: Gemiddeld
-        - 30-35%: Prima
-        - 35-40%: Goed
-        
-        - 40-50%: Zeer goed
-        - 50-60%: Uitstekend
-        - 60-70%: Uitstekend +
-        - 70% +: Excellent
+      - 0-10%: Slecht
+      - 10-20%: Matig
+      - 20-30%: Gemiddeld
+      - 30-35%: Prima
+      - 35-40%: Goed
+      
+      - 40-50%: Zeer goed
+      - 50-60%: Uitstekend
+      - 60-70%: Uitstekend +
+      - 70% +: Excellent
 
-      4- Kosten
+    4- Kosten
+
+      1- Inkoop: Leverancier Alibaba & AliExpress
+      2- Verzending pakketten NL: LvB, PostNL 3-5
+      3- Transport China naar Nederland: Logistieke partij
+      4- Commissiebijdrage bol.com: 1 EUR + 5-15% X 8-10+ factor op de inkoop zit je sowieso goed
+
+    5- Crash course inkoop bepalen voor
   
-        1- Inkoop: Leverancier Alibaba & AliExpress
-        2- Verzending pakketten NL: LvB, PostNL 3-5
-        3- Transport China naar Nederland: Logistieke partij
-        4- Commissiebijdrage bol.com: 1 EUR + 5-15% X 8-10+ factor op de inkoop zit je sowieso goed
+      Alibaba & AliExpress
+      - De MOQ
+      - Tijd actief, Gold Suppliers & Reviews
+      - Prijs per stuk krijgen
 
-      5- Crash course inkoop bepalen voor
+    6- Verzendkosten binnen NL
   
-        Alibaba & AliExpress
-        - De MOQ
-        - Tijd actief, Gold Suppliers & Reviews
-        - Prijs per stuk krijgen
+      LvB & MyParcel
+      - Bepaal de afmetingen van het product (Specificaties)
+      - Goedkoop tarief: brievenbus & S afmeting
+      - Normaal tarief: M afmeting
+      - PostNL & MyParcel: €3,90 > €5,95
+      - Ons product: €4,75
 
-      6- Verzendkosten binnen NL
-  
-        LvB & MyParcel
-        - Bepaal de afmetingen van het product (Specificaties)
-        - Goedkoop tarief: brievenbus & S afmeting
-        - Normaal tarief: M afmeting
-        - PostNL & MyParcel: €3,90 > €5,95
-        - Ons product: €4,75
-
-        | Maat | Kosten per artikel | Kosten per bezorging | Totaal per besteld artikel (= Kosten per artikel + Kosten per bezorging) 
-        | :--- | :-----------------: | :------------------: | :----------------------------------------------------------------------: 
-        | **XS**| € 1,40               | € 1,80               | € 3,20                                                                   
-        | **S** | € 1,50               | € 2,50               | € 4,00                                                                   
-        | **M** | € 1,75               | € 3,00               | € 4,75                                                                   
-        | **L** | € 2,00               | € 3,50               | € 5,50                                                                   
+      | Maat | Kosten per artikel | Kosten per bezorging | Totaal per besteld artikel (= Kosten per artikel + Kosten per bezorging) 
+      | :--- | :-----------------: | :------------------: | :----------------------------------------------------------------------: 
+      | **XS**| € 1,40               | € 1,80               | € 3,20                                                                   
+      | **S** | € 1,50               | € 2,50               | € 4,00                                                                   
+      | **M** | € 1,75               | € 3,00               | € 4,75                                                                   
+      | **L** | € 2,00               | € 3,50               | € 5,50                                                                   
                                     
 
-      7- Transport producten van
+    7- Transport producten van
   
-        China naar Nederland
-        1. Transport met de leverancier: duur
-        2. Transport met een forwarder: voordelig
+      China naar Nederland
+      1. Transport met de leverancier: duur
+      2. Transport met een forwarder: voordelig
 
-      8- Prijs forwarder
+    8- Prijs forwarder
   
-        - Gemiddeld €3,50 per KG
-        - Hoeveel KG zijn je producten?
-        - 50 stuks van ons baby niche product:
-        - Verzendkosten: 15 KG totaal > 15 x €3,50 = €52,50
-        - Invoerrechten: Ongeveer 5% van inkoopwaarde > €10,-
-        - Inklaringskosten: €20,-
-        **€82,50 totaal transport van China naar Nederland**
+      - Gemiddeld €3,50 per KG
+      - Hoeveel KG zijn je producten?
+      - 50 stuks van ons baby niche product:
+      - Verzendkosten: 15 KG totaal > 15 x €3,50 = €52,50
+      - Invoerrechten: Ongeveer 5% van inkoopwaarde > €10,-
+      - Inklaringskosten: €20,-
+      **€82,50 totaal transport van China naar Nederland**
 
     ### Blueprint Map - Punten Invullen
   
-      1- Het puntensysteem voor de "KOLOM" (WINST)
+    1- Het puntensysteem voor de "KOLOM" (WINST)
   
-        Je minimale winst verhoog je met 100%
-        Stel, je minimale winst is 400 euro
-        1: €400 - €800 (1 punt)
-        2: €800 - €1200 (2 punten)
-        3: €1200 - €1600 (3 punten)
-        4: €1600 - €2000 (4 punten)
-        5: €2000+ (5 punten)
-        Dit product krijgt dus 3 punten in de blueprint map
+      Je minimale winst verhoog je met 100%
+      Stel, je minimale winst is 400 euro
+      1: €400 - €800 (1 punt)
+      2: €800 - €1200 (2 punten)
+      3: €1200 - €1600 (3 punten)
+      4: €1600 - €2000 (4 punten)
+      5: €2000+ (5 punten)
+      Dit product krijgt dus 3 punten in de blueprint map
 
-      2- Eigenschap 2: wat voor/soort product is het? "KOLOM" (SOORT)
+    2- Eigenschap 2: wat voor/soort product is het? "KOLOM" (SOORT)
 
-        - Is het een product dat opgaat en bijgevuld moet worden (luiers,<br>
-          borstvoeding etc.)? +1
-        - Is het een product dat probleemoplossend is voor mensen? +1
-        - Is het een product dat wordt gekocht uit zorg voor een ander (baby,<br>
-          kind of dier)? +1
-        - Is het een product dat een consument aanschaft voor een fysiek<br>
-          pijnlijke reden? +1
-        - Is het een product waarbij emoties in het spel zijn? +1
+      - Is het een product dat opgaat en bijgevuld moet worden (luiers,<br>
+        borstvoeding etc.)? +1
+      - Is het een product dat probleemoplossend is voor mensen? +1
+      - Is het een product dat wordt gekocht uit zorg voor een ander (baby,<br>
+        kind of dier)? +1
+      - Is het een product dat een consument aanschaft voor een fysiek<br>
+        pijnlijke reden? +1
+      - Is het een product waarbij emoties in het spel zijn? +1
 
 
 
-      3- Eigenschap 3: Hoeveel concurrenten heeft het product? "KOLOM" (CONCERRENTEN)
+    3- Eigenschap 3: Hoeveel concurrenten heeft het product? "KOLOM" (CONCERRENTEN)
   
-        1- 20+ concurrenten (1 punt)
-        2- 11-20 concurrenten (2 punten) NIET POSITIEF -> GEMMIDELD
-        3- 6-10 concurrenten (3 punten)
-        4- 2-5 concurrenten (4 punten)
-        5- 0-1 concurrenten (5 punten)
+      1- 20+ concurrenten (1 punt)
+      2- 11-20 concurrenten (2 punten) NIET POSITIEF -> GEMMIDELD
+      3- 6-10 concurrenten (3 punten)
+      4- 2-5 concurrenten (4 punten)
+      5- 0-1 concurrenten (5 punten)
       
-      4- Eigenschap 3: Geen concurrenten of een onderscheidend
+    4- Eigenschap 3: Geen concurrenten of een onderscheidend
       product dat nog niet op bol.com staat? "KOLOM" (TOP OMZET)<br>
 
-        Geef de punten gebaseerd op de totale omzet van de top aanbieders.<br>
-        Soortgelijke producten die dezelfde vraag oplossen
+      Geef de punten gebaseerd op de totale omzet van de top aanbieders.<br>
+      Soortgelijke producten die dezelfde vraag oplossen
         
-        1- 0-10 - Duizend € (1 punt)
-        2- 10-20 - Duizend € (2 punten)
-        3- 20-30 - Duizend € (3 punten)
-        4- 30-40 - Duizend € (4 punten)
-        5- 40+ - Duizend € (5 punten)
+      1- 0-10 - Duizend € (1 punt)
+      2- 10-20 - Duizend € (2 punten)
+      3- 20-30 - Duizend € (3 punten)
+      4- 30-40 - Duizend € (4 punten)
+      5- 40+ - Duizend € (5 punten)
 
-      5- Eigenschap 4: Ga je het product intrinsiek veranderen? "KOLOM" (OV)
+    5- Eigenschap 4: Ga je het product intrinsiek veranderen? "KOLOM" (OV)
 
-        Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
-        Ja: 1
-        Nee: 0
+      Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
+      Ja: 1
+      Nee: 0
 
-      6- Eigenschap 5: Verkoopprijs vand de product verhoging als je hem zou verbeteren of iets ertoe wil voegen "KOLOM" (HIGH TICKET)<br>
+    6- Eigenschap 5: Verkoopprijs vand de product verhoging als je hem zou verbeteren of iets ertoe wil voegen "KOLOM" (HIGH TICKET)<br>
           Bijv: Een set of de kleur, combineren met andere product....<br>
           Is het een high-ticket product of een goedkoop product?
-  
-        - High ticket product: 1 (HOOG PRIJS = HIGH TICKET)
-        - Goedkoop product: 0
 
-      7- Eigenschap 6: Wat is de kwaliteit van de listings? "KOLOM" (LISTING)<br>
-         Check 3-5 listing van de concurrenten te beoordelen.
-      Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
-  
-        1- Uitstekend
-        2- Zeer goed
-        3- Gemiddeld
-        4- Matig
-        5- Slecht
-        Had je het zelf gekocht?
+      - High ticket product: 1 (HOOG PRIJS = HIGH TICKET)
+      - Goedkoop product: 0
 
-      8- Eigenschap 7: Seizoensgebonden "KOLOM" (SEIZOEN)
-  
-        Wordt het product het hele jaar door verkocht, maar is er
-        een periode dat het product aanzienlijk meer sales heeft?
-        Ja: 1
-        Nee: 0
-        
-        Zo ja, is deze periode in de aankomende 6 maanden?
-        Ja: 2
-        Nee: 0
+    7- Eigenschap 6: Wat is de kwaliteit van de listings? "KOLOM" (LISTING)<br>
+       Check 3-5 listing van de concurrenten te beoordelen.
+    Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
 
-      9- Eigenschap 7: Niche uitbreiding
-        
-        Is dit een product in een niche waar jij je uit kunt breiden
-        met een merk in de toekomst?
-        Ja: 1
-        Nee: 0
+      1- Uitstekend
+      2- Zeer goed
+      3- Gemiddeld
+      4- Matig
+      5- Slecht
+      Had je het zelf gekocht?
 
-      10- Eigenschap 9: Track record fabriek "KOLOM" (FABRIEK)
+    8- Eigenschap 7: Seizoensgebonden "KOLOM" (SEIZOEN)
   
-        Heeft het product de juiste MOQ en wat is de track record van de fabriek?
+      Wordt het product het hele jaar door verkocht, maar is er
+      een periode dat het product aanzienlijk meer sales heeft?
+      Ja: 1
+      Nee: 0
+      
+      Zo ja, is deze periode in de aankomende 6 maanden?
+      Ja: 2
+      Nee: 0
+
+    9- Eigenschap 7: Niche uitbreiding
         
-        Kijk naar: omzet, communicatie snelheid, gold supplier, reviews,
-        orders export landen.
-        
-        Goed: 1
-        Slecht: 0
+      Is dit een product in een niche waar jij je uit kunt breiden
+      met een merk in de toekomst?
+      Ja: 1
+      Nee: 0
+
+    10- Eigenschap 9: Track record fabriek "KOLOM" (FABRIEK)
+  
+      Heeft het product de juiste MOQ en wat is de track record van de fabriek?
+      
+      Kijk naar: omzet, communicatie snelheid, gold supplier, reviews,
+      orders export landen.
+      
+      Goed: 1
+      Slecht: 0
 <hr>
 
 
