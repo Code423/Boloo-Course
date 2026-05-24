@@ -213,9 +213,9 @@ Learning Online Sale
         - Inklaringskosten: €20,-
         **€82,50 totaal transport van China naar Nederland**
 
-    ### Blueprint Map Invullen
+    ### Blueprint Map - Punten Invullen
   
-      9- Het puntensysteem voor de "KOLOM" winst
+      1- Het puntensysteem voor de "KOLOM" (WINST)
   
         Je minimale winst verhoog je met 100%
         Stel, je minimale winst is 400 euro
@@ -225,6 +225,103 @@ Learning Online Sale
         4: €1600 - €2000 (4 punten)
         5: €2000+ (5 punten)
         Dit product krijgt dus 3 punten in de blueprint map
+
+      2- Eigenschap 2: wat voor/soort product is het? "KOLOM" (SOORT)
+
+        - Is het een product dat opgaat en bijgevuld moet worden (luiers,<br>
+          borstvoeding etc.)? +1
+        - Is het een product dat probleemoplossend is voor mensen? +1
+        - Is het een product dat wordt gekocht uit zorg voor een ander (baby,<br>
+          kind of dier)? +1
+        - Is het een product dat een consument aanschaft voor een fysiek<br>
+          pijnlijke reden? +1
+        - Is het een product waarbij emoties in het spel zijn? +1
+
+
+
+      3- Eigenschap 3: Hoeveel concurrenten heeft het product? "KOLOM" (CONCERRENTEN)
+  
+        1- 20+ concurrenten (1 punt)
+        2- 11-20 concurrenten (2 punten) NIET POSITIEF -> GEMMIDELD
+        3- 6-10 concurrenten (3 punten)
+        4- 2-5 concurrenten (4 punten)
+        5- 0-1 concurrenten (5 punten)
+      
+      4- Eigenschap 3: Geen concurrenten of een onderscheidend
+      product dat nog niet op bol.com staat? "KOLOM" (TOP OMZET)<br>
+
+        Geef de punten gebaseerd op de totale omzet van de top aanbieders.<br>
+        Soortgelijke producten die dezelfde vraag oplossen
+        
+        1- 0-10 - Duizend € (1 punt)
+        2- 10-20 - Duizend € (2 punten)
+        3- 20-30 - Duizend € (3 punten)
+        4- 30-40 - Duizend € (4 punten)
+        5- 40+ - Duizend € (5 punten)
+
+      5- Eigenschap 4: Ga je het product intrinsiek veranderen? "KOLOM" (OV)
+
+        Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
+        Ja: 1
+        Nee: 0
+
+      6- Eigenschap 5: Verkoopprijs vand de product verhoging als je hem zou verbeteren of iets ertoe wil voegen "KOLOM" (HIGH TICKET)<br>
+          Bijv: Een set of de kleur, combineren met andere product....<br>
+          Is het een high-ticket product of een goedkoop product?
+  
+        - High ticket product: 1 (HOOG PRIJS = HIGH TICKET)
+        - Goedkoop product: 0
+
+      7- Eigenschap 6: Wat is de kwaliteit van de listings? "KOLOM" (LISTING)<br>
+         Check 3-5 listing van de concurrenten te beoordelen.
+      Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
+  
+        1- Uitstekend
+        2- Zeer goed
+        3- Gemiddeld
+        4- Matig
+        5- Slecht
+        Had je het zelf gekocht?
+
+      8- Eigenschap 7: Seizoensgebonden "KOLOM" (SEIZOEN)
+  
+        Wordt het product het hele jaar door verkocht, maar is er
+        een periode dat het product aanzienlijk meer sales heeft?
+        Ja: 1
+        Nee: 0
+        
+        Zo ja, is deze periode in de aankomende 6 maanden?
+        Ja: 2
+        Nee: 0
+
+      9- Eigenschap 7: Niche uitbreiding
+        
+        Is dit een product in een niche waar jij je uit kunt breiden
+        met een merk in de toekomst?
+        Ja: 1
+        Nee: 0
+
+      10- Eigenschap 9: Track record fabriek "KOLOM" (FABRIEK)
+  
+        Heeft het product de juiste MOQ en wat is de track record van de fabriek?
+        
+        Kijk naar: omzet, communicatie snelheid, gold supplier, reviews,
+        orders export landen.
+        
+        Goed: 1
+        Slecht: 0
+<hr>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
