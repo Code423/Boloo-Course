@@ -264,6 +264,7 @@ Learning Online Sale
       Nee: 0
 
     6- Eigenschap 5: Verkoopprijs vand de product verhoging als je hem zou verbeteren of iets ertoe wil voegen "KOLOM" (HIGH TICKET)<br>
+    
           Bijv: Een set of de kleur, combineren met andere product....<br>
           Is het een high-ticket product of een goedkoop product?
 
