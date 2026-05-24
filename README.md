@@ -294,7 +294,7 @@ Learning Online Sale
       Ja: 2
       Nee: 0
 
-    9- Eigenschap 7: Niche uitbreiding
+    9- Eigenschap 7: Niche uitbreiding "KOLOM" (NICH UIBREIDING)
         
       Is dit een product in een niche waar jij je uit kunt breiden
       met een merk in de toekomst?
