@@ -209,7 +209,7 @@ Learning Online Sale
       - 50 stuks van ons baby niche product:
       - Verzendkosten: 15 KG totaal > 15 x €3,50 = €52,50
       - Invoerrechten: Ongeveer 5% van inkoopwaarde > €10,-
-      - Inklaringskosten: €20,-
+      - Inklaringskosten: €20,-<br>
       **€82,50 totaal transport van China naar Nederland**
 
     ### Blueprint Map - Punten Invullen
