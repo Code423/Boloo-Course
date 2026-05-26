@@ -214,7 +214,7 @@ Learning Online Sale
 
     # Blueprint Map - Punten Invullen
   
-    1- Het puntensysteem voor de "KOLOM" (WINST)
+    **1- Het puntensysteem voor de "KOLOM" (WINST)**
   
       Je minimale winst verhoog je met 100%
       Stel, je minimale winst is 400 euro
@@ -225,8 +225,7 @@ Learning Online Sale
       - €2000+ (5 punten)<br>
       Dit product krijgt dus 3 punten in de blueprint map
 <hr>
-
-    2- Eigenschap 2: wat voor/soort product is het? "KOLOM" (SOORT)
+    **2- Eigenschap 2: wat voor/soort product is het? "KOLOM" (SOORT)**
 
       - Is het een product dat opgaat en bijgevuld moet worden (luiers,<br>
         borstvoeding etc.)? +1
@@ -237,8 +236,7 @@ Learning Online Sale
         pijnlijke reden? +1
       - Is het een product waarbij emoties in het spel zijn? +1
 <hr>
-
-    3- Eigenschap 3: Hoeveel concurrenten heeft het product? "KOLOM" (CONCERRENTEN)
+    **3- Eigenschap 3: Hoeveel concurrenten heeft het product? "KOLOM" (CONCERRENTEN)**
   
       - 20+ concurrenten (1 punt)
       - 11-20 concurrenten (2 punten) NIET POSITIEF -> GEMMIDELD
