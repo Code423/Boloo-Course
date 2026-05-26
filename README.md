@@ -225,7 +225,7 @@ Learning Online Sale
       - €2000+ (5 punten)<br>
       Dit product krijgt dus 3 punten in de blueprint map
 <hr>
-    **2- Eigenschap 2: wat voor/soort product is het? "KOLOM" (SOORT)**
+    2- Eigenschap 2: wat voor/soort product is het? "KOLOM" (SOORT)
 
       - Is het een product dat opgaat en bijgevuld moet worden (luiers,<br>
         borstvoeding etc.)? +1
@@ -236,7 +236,7 @@ Learning Online Sale
         pijnlijke reden? +1
       - Is het een product waarbij emoties in het spel zijn? +1
 <hr>
-    **3- Eigenschap 3: Hoeveel concurrenten heeft het product? "KOLOM" (CONCERRENTEN)**
+    3- Eigenschap 3: Hoeveel concurrenten heeft het product? "KOLOM" (CONCERRENTEN)
   
       - 20+ concurrenten (1 punt)
       - 11-20 concurrenten (2 punten) NIET POSITIEF -> GEMMIDELD
@@ -244,7 +244,6 @@ Learning Online Sale
       - 2-5 concurrenten (4 punten)
       - 0-1 concurrenten (5 punten)
  <hr>
- 
     4- Eigenschap 3: Geen concurrenten of een onderscheidend product dat nog niet op bol.com staat? "KOLOM" (TOP OMZET)<br>
 
       - Geef de punten gebaseerd op de totale omzet van de top aanbieders.<br>
@@ -256,14 +255,12 @@ Learning Online Sale
       - 30-40 - Duizend € (4 punten)
       - 40+ - Duizend € (5 punten)
 <hr>
-
     5- Eigenschap 4: Ga je het product intrinsiek veranderen? "KOLOM" (OV)
 
       Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.<br>
       Ja: 1<br>
       Nee: 0
 <hr>
-
     6- Eigenschap 5: Verkoopprijs vand de product verhoging als je hem zou verbeteren of iets ertoe wil voegen "KOLOM" (HIGH TICKET)<br>
     
           Bijv: Een set of de kleur, combineren met andere product....<br>
@@ -272,7 +269,6 @@ Learning Online Sale
       - High ticket product: 1 (HOOG PRIJS = HIGH TICKET)
       - Goedkoop product: 0
 <hr>
-
     7- Eigenschap 6: Wat is de kwaliteit van de listings? "KOLOM" (LISTING)<br>
        Check 3-5 listing van de concurrenten te beoordelen.<br>
     Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
@@ -284,7 +280,6 @@ Learning Online Sale
       5- Slecht<br>
       Had je het zelf gekocht?
 <hr>
-
     8- Eigenschap 7: Seizoensgebonden "KOLOM" (SEIZOEN)
   
       Wordt het product het hele jaar door verkocht, maar is er
@@ -296,7 +291,6 @@ Learning Online Sale
       Ja: 2<br>
       Nee: 0
 <hr>
-
     9- Eigenschap 7: Niche uitbreiding "KOLOM" (NICH UIBREIDING)
         
       Is dit een product in een niche waar jij je uit kunt breiden
@@ -304,7 +298,6 @@ Learning Online Sale
       Ja: 1<br>
       Nee: 0
 <hr>
-
     10- Eigenschap 9: Track record fabriek **"KOLOM" (FABRIEK)**
   
       Heeft het product de juiste MOQ en wat is de track record van de fabriek?
