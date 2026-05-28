@@ -87,6 +87,10 @@ Learning Online Sale
     - > 9- Taobao: Ook voor chinze markt
     - > 10- Alibaba/Express
     - > 11- Global Sources: Hong Kong Webshop
+  ### **Chinees websites**
+    - > Made-in-China.com
+    - > GlobalSources.com
+    - > 1688.com: Fabrieken op 1688 spreken vaak geen Engels en verzenden meestal niet direct naar Europa.
 <hr>
 
 ### - MODULE 12: DE MEEST GEMAAKTE FOUTEN BIJ PRODUCTONDERZOEK:
