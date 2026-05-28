@@ -362,6 +362,37 @@ Greetbuy is een unieke speler die het midden houdt tussen een consumenten-proxy 
 
 <hr>
 
+## Logistieke Berekening & Transportanalyse
+
+Hieronder vind je de samenvatting van de transportberekening voor **346 stuks** op basis van het volumegewicht en de huidige invoer in de winstmachine.
+
+### 1. Volumegewicht vs. Werkelijk Gewicht
+Bij snelle luchtvracht bepalingen rekenen transporteurs met de formule:  
+`Volumegewicht (kg) = (Lengte × Breedte × Hoogte in cm) / 5000`
+
+| Categorie | Specificaties per stuk | Toelichting |
+| :--- | :--- | :--- |
+| **Pakketmaat** | 20 × 15 × 25 cm | Afmeting van de leverancier (`image_d82d2b.png`) |
+| **Werkelijk gewicht** | 1,0 kg | Gewicht op de weegschaal |
+| **Volumegewicht** | **1,5 kg** | Berekening: `(20 × 15 × 25) / 5000` |
+| **Belastbaar gewicht** | **1,5 kg** | **De transporteur factureert dit hogere gewicht!** |
+
+---
+
+### 2. Transportkosten Analyse (346 stuks)
+
+| Onderdeel | Waarde | Berekening / Status |
+| :--- | :--- | :--- |
+| **Totaal belastbaar gewicht** | **519 kg** | 346 stuks × 1,5 kg volumegewicht |
+| **Kosten op basis van jouw richttarief** | **€ 2.076,-** | 519 kg × € 4,- per kilo |
+| **Huidige invoer winstmachine** | **€ 1.533,-** | Ingevoerd bedrag (`image_d82d29.png`) |
+| **Huidige kiloprijs in winstmachine** | **€ 2,95** | `€ 1.533,- / 519 kg` (Let op: dit is erg laag voor Air Express) |
+
+> [!TIP]
+> **Advies:** Het bedrag van € 1.533,- is aan de lage kant voor een levering binnen 2 weken. Houd rekening met een reëlere prijs rond de **€ 2.076,-** in je definitieve winstberekening.
+
+<hr>
+
 ## 1. Volumegewicht in kg Berekenen (Dimensional Weight)
 
 Bij snelle luchtvracht rekenen transporteurs niet alleen met het échte gewicht op de weegschaal, maar ook met de ruimte die een doos inneemt. Ze gebruiken hiervoor de volgende formule:
