@@ -362,35 +362,45 @@ Greetbuy is een unieke speler die het midden houdt tussen een consumenten-proxy 
 
 <hr>
 
-## Logistieke Berekening & Transportanalyse
+## Logistieke Basisgegevens (346 stuks)
 
-Hieronder vind je de samenvatting van de transportberekening voor **346 stuks** op basis van het volumegewicht en de huidige invoer in de winstmachine.
+Bij internationale vracht (vooral luchtvracht) berekenen transporteurs de kosten op basis van het **volumegewicht** als dit hoger is dan het werkelijke gewicht.
 
-### 1. Volumegewicht vs. Werkelijk Gewicht
-Bij snelle luchtvracht bepalingen rekenen transporteurs met de formule:  
-`Volumegewicht (kg) = (Lengte × Breedte × Hoogte in cm) / 5000`
-
-| Categorie | Specificaties per stuk | Toelichting |
+| Onderdeel | Specificaties | Berekening / Toelichting |
 | :--- | :--- | :--- |
-| **Pakketmaat** | 20 × 15 × 25 cm | Afmeting van de leverancier (`image_d82d2b.png`) |
+| **Afmeting per stuk** | 20 × 15 × 25 cm | Formaat van de productverpakking |
 | **Werkelijk gewicht** | 1,0 kg | Gewicht op de weegschaal |
-| **Volumegewicht** | **1,5 kg** | Berekening: `(20 × 15 × 25) / 5000` |
-| **Belastbaar gewicht** | **1,5 kg** | **De transporteur factureert dit hogere gewicht!** |
+| **Volumegewicht** | **1,5 kg** | Formule: `(20 × 15 × 25) / 5000` |
+| **Totaal belastbaar gewicht** | **519 kg** | 346 stuks × 1,5 kg (dit gewicht wordt afgerekend) |
 
 ---
 
-### 2. Transportkosten Analyse (346 stuks)
+## Vergelijking: Luchtvracht vs. Zeevracht (DDP)
 
-| Onderdeel | Waarde | Berekening / Status |
+Voor een startende ondernemer is de verzendmethode **DDP (Delivered Duty Paid)** de veiligste keuze. Hierin zijn transport, invoerrechten en inklaringskosten al all-in berekend.
+
+| Kenmerk | Luchtvracht (Air Express / Freight) | Zeevracht (Ocean Freight) |
 | :--- | :--- | :--- |
-| **Totaal belastbaar gewicht** | **519 kg** | 346 stuks × 1,5 kg volumegewicht |
-| **Kosten op basis van jouw richttarief** | **€ 2.076,-** | 519 kg × € 4,- per kilo |
-| **Huidige invoer winstmachine** | **€ 1.533,-** | Ingevoerd bedrag (`image_d82d29.png`) |
-| **Huidige kiloprijs in winstmachine** | **€ 2,95** | `€ 1.533,- / 519 kg` (Let op: dit is erg laag voor Air Express) |
+| **Gemiddelde levertijd** | 7 tot 14 dagen (2 weken) | 35 tot 50 dagen (5 tot 7 weken) |
+| **Geschatte prijs per kg** | € 4,50 – € 6,00 | € 1,50 – € 2,50 |
+| **Totale kosten (519 kg)**| **± € 2.300,- tot € 2.900,-** | **± € 780,- tot € 1.300,-** |
+| **Voordeel** | Extreem snel, snel op voorraad bij Bol.com. | Heel goedkoop, maximaliseert de winstmarge. |
+| **Nadeel** | Duur, drukt de winst per product flink. | Duurt erg lang, kans op vertragingen op zee. |
 
-> [!TIP]
-> **Advies:** Het bedrag van € 1.533,- is aan de lage kant voor een levering binnen 2 weken. Houd rekening met een reëlere prijs rond de **€ 2.076,-** in je definitieve winstberekening.
+---
 
+## Mogelijke Verzendbedrijven & Partners
+
+Om dit transport te regelen, kun je gebruikmaken van de volgende netwerken en koeriers:
+
+### 1. Directe Air Express (Koeriersdiensten)
+Dit zijn de partijen die de levering binnen 2 weken garanderen via hun eigen netwerk. Je kunt deze tarieven rechtstreeks via de Alibaba-leverancier boeken:
+* **DHL Express** (Vaak de snelste en meest betrouwbare optie vanuit China)
+* **FedEx / TNT** (Sterk in zowel express- als reguliere vracht)
+* **UPS** (Zeer betrouwbaar netwerk voor zwaardere pakketzendingen)
+
+### 2. Onafhankelijke Freight Forwarders (Vrachtdoorvoerders)
+Als je niet via de leverancier zelf verzendt, kun je op Alibaba zoeken naar een *Freight Forwarder* (zoekterm: *"DDP forwarder to Netherlands"*). Zij boeken ruimte in bij de bovenstaande koeriers of op vrachtschepen tegen scherpere groothandelstarieven.
 <hr>
 
 ## 1. Volumegewicht in kg Berekenen (Dimensional Weight)
