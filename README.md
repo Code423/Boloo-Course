@@ -313,6 +313,42 @@ Learning Online Sale
       Slecht: 0
 <hr>
 
+# 1. Wat is het verschil tussen die agents?
+
+De partijen die je noemt (Superbuy, Pandabuy, Sugargoo, Wegobuy) worden Shopping Agents of Proxy Agents genoemd.
+
+⚠️ Belangrijke update: Pandabuy is na een grote politie-inval en rechtszaken wegens namaakgoederen volledig ingestort en is momenteel niet meer operationeel of betrouwbaar.
+
+Dit is het verschil tussen de overgebleven bekende partijen:
+
+Superbuy: Dit is momenteel een van de meest betrouwbare en stabiele 'consumenten-agenten'. Ze zijn iets duurder met servicekosten, maar hun klantenservice is uitstekend en hun inspectiefoto's (Quality Check) zijn heel nauwkeurig.
+
+Sugargoo: Staat bekend als de budgetvriendelijke optie. Hun interface is soms wat minder modern, maar hun internationale verzendtarieven naar Europa (Nederland) behoren vaak tot de goedkoopste.
+
+Wegobuy: Erg vergelijkbaar met Superbuy (ze vallen onder hetzelfde moederbedrijf), maar de laatste tijd minder populair omdat de focus meer op Superbuy ligt.
+
+Maar let op...
+De bovenstaande agents zijn eigenlijk ontworpen voor consumenten die een paar kledingstukken of gadgets in China kopen. Omdat jij een B2B-ondernemer (Bol.com) bent, kun je voor grotere volumes (bijv. 50+ stuks) beter overstappen op een professionele B2B Sourcing Agent / Freight Forwarder (zoals JingSourcing, Supplyia of Greetbuy). Zij kunnen veel beter onderhandelen over de prijs, controleren de kwaliteit op groothandelsniveau en regelen de juiste douanepapieren (handig voor je btw-aangifte).
+
+2. Direct via 1688 regelen of via een Agent?
+Het korte antwoord: Je moet absoluut via een agent (of freight forwarder) werken.
+
+Het is op de 1688-website zelf voor buitenlanders nagenoeg onmogelijk om de verzending naar Nederland rechtstreeks te regelen. Dit heeft drie redenen:
+
+Binnenlandse focus: 1688 is een puur Chinees platform. Leveranciers sturen hun pakketten alleen naar adressen binnen China (vaak met lokale koeriers zoals SF Express). Ze hebben geen exportlicenties om direct naar Nederland te posten.
+
+Betaalmuur: Je kunt op 1688 meestal alleen betalen met een Chinese bankrekening of Alipay (gekoppeld aan een Chinees ID). Een agent betaalt de leverancier in Yuan, en jij betaalt de agent gewoon in Euro's via iDeal, PayPal of creditcard.
+
+Douane & Certificaten: Omdat het hier gaat om een babyproduct (gehoorbescherming), is het cruciaal dat het pakket goed door de Nederlandse douane komt (inclusief CE-markering indien nodig). Een professionele agent regelt een verzendmethode inclusief douaneafhandeling (DDP - Delivered Duty Paid), zodat je achteraf geen onverwachte importkosten of boetes krijgt.
+
+Jouw beste volgende stap:
+Maak een account aan op bijvoorbeeld Superbuy (voor een kleine testbestelling) of neem contact op met een B2B agent zoals JingSourcing (als je direct tientallen stuks wilt kopen).
+
+Plak de link van de 1688-pagina in de zoekbalk van de agent.
+
+Geef bij de agent aan hoeveel stuks je wilt.
+
+Laat de producten eerst naar hun magazijn in China sturen. Zodra zij de foto's sturen en alles er perfect uitziet, kies je voor een veilige verzendlijn naar Nederland (bij voorkeur een 'Tax-Free' of 'DDP' lijn).
 
 
 
