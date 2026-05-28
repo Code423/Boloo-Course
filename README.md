@@ -362,6 +362,31 @@ Greetbuy is een unieke speler die het midden houdt tussen een consumenten-proxy 
 
 <hr>
 
+## 1. Het addertje onder het gras: Volumegewicht (Dimensional Weight)
+
+Bij snelle luchtvracht rekenen transporteurs niet alleen met het échte gewicht op de weegschaal, maar ook met de ruimte die een doos inneemt. Ze gebruiken hiervoor de volgende formule:
+
+> **Volumegewicht (in kg)** = (Lengte × Breedte × Hoogte in cm) / 5000
+
+Als we kijken naar de pakketmaat van jouw leverancier (`image_d82d2b.png`): **20 × 15 × 25 cm**.
+
+* **Werkelijk gewicht:** 1,0 kg (op de weegschaal)
+* **Volumegewicht:** (20 × 15 × 25) / 5000 = **1,5 kg**
+
+> [!IMPORTANT]
+> Omdat het volumegewicht (1,5 kg) hoger is dan het werkelijke gewicht (1,0 kg), gaat de transporteur jou factureren voor **1,5 kg per stuk**!
+
+---
+
+## 2. Is je transportprijs in de winstmachine nu juist?
+
+Laten we de rekensom maken voor jouw 346 stuks (`image_d82d29.png`):
+
+* **Totaal belastbaar gewicht:** 346 stuks × 1,5 kg = **519 kg**
+* **Jouw richttarief (€ 4,- p/kg):** 519 kg × € 4,- = **€ 2.076,-**
+
+In jouw winstmachine staat nu **€ 1.533,-** ingevuld bij de transportkosten (`image_d82d29.png`). Als we die € 1.533,- delen door de 519 kg, kom je uit op zo'n **€ 2,95 per kilo**.
+
 
 
 
