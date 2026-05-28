@@ -403,32 +403,3 @@ Dit zijn de partijen die de levering binnen 2 weken garanderen via hun eigen net
 Als je niet via de leverancier zelf verzendt, kun je op Alibaba zoeken naar een *Freight Forwarder* (zoekterm: *"DDP forwarder to Netherlands"*). Zij boeken ruimte in bij de bovenstaande koeriers of op vrachtschepen tegen scherpere groothandelstarieven.
 <hr>
 
-## 1. Volumegewicht in kg Berekenen (Dimensional Weight)
-
-Bij snelle luchtvracht rekenen transporteurs niet alleen met het échte gewicht op de weegschaal, maar ook met de ruimte die een doos inneemt. Ze gebruiken hiervoor de volgende formule:
-
-> **Volumegewicht (in kg)** = (Lengte × Breedte × Hoogte in cm) / 5000
-
-Als we kijken naar de pakketmaat van jouw leverancier: **20 × 15 × 25 cm**.
-
-* **Werkelijk gewicht:** 1,0 kg (op de weegschaal)
-* **Volumegewicht:** (20 × 15 × 25) / 5000 = **1,5 kg**
-
-> [!IMPORTANT]
-> Omdat het volumegewicht (1,5 kg) hoger is dan het werkelijke gewicht (1,0 kg), gaat de transporteur jou factureren voor **1,5 kg per stuk**!
-
----
-
-## 2. Is je transportprijs in de winstmachine nu juist?
-
-Laten we de rekensom maken voor jouw 346 stuks:
-
-* **Totaal belastbaar gewicht:** 346 stuks × 1,5 kg = **519 kg**
-* **Jouw richttarief (€ 4,- p/kg):** 519 kg × € 4,- = **€ 2.076,-**
-
-In jouw winstmachine staat nu **€ 1.533,-** ingevuld bij de transportkosten. Als we die € 1.533,- delen door de 519 kg, kom je uit op zo'n **€ 2,95 per kilo**.
-
-
-
-
-  
