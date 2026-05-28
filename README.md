@@ -313,24 +313,99 @@ Learning Online Sale
       Slecht: 0
 <hr>
 
-# 1. Wat is het verschil tussen die agents?
+# 🇨🇳 B2B Sourcing Agents Vergelijking (China naar Nederland)
 
-De partijen die je noemt (Superbuy, Pandabuy, Sugargoo, Wegobuy) worden Shopping Agents of Proxy Agents genoemd.
+Dit document bevat een overzicht en vergelijking van de meest populaire B2B Sourcing Agents in China voor e-commerce ondernemers (zoals Bol.com en Amazon verkopers). 
 
-⚠️ Belangrijke update: Pandabuy is na een grote politie-inval en rechtszaken wegens namaakgoederen volledig ingestort en is momenteel niet meer operationeel of betrouwbaar.
+---
 
-Dit is het verschil tussen de overgebleven bekende partijen:
+## 📊 Snel Overzicht & Vergelijking
 
-Superbuy: Dit is momenteel een van de meest betrouwbare en stabiele 'consumenten-agenten'. Ze zijn iets duurder met servicekosten, maar hun klantenservice is uitstekend en hun inspectiefoto's (Quality Check) zijn heel nauwkeurig.
+| Agent | Type Platform | Minimale Orderwaarde (MOQ) | Beste Geschikt Voor |
+| :--- | :--- | :--- | :--- |
+| **JingSourcing** | Full-service B2B Bureau | Vanaf ± $1.000 USD | Grote Private Label orders (100+ stuks) met eigen merk/verpakking. |
+| **Supplyia** | Flexibel B2B Bureau | Laag / Flexibel | Startende ondernemers, productbundeling en kwaliteitscontroles. |
+| **Greetbuy** | Hybride (Proxy/B2B) | Geen minimale waarde | Kleine testbestellingen (10-50 stuks) met B2B-verzendopties. |
 
-Sugargoo: Staat bekend als de budgetvriendelijke optie. Hun interface is soms wat minder modern, maar hun internationale verzendtarieven naar Europa (Nederland) behoren vaak tot de goedkoopste.
+---
 
-Wegobuy: Erg vergelijkbaar met Superbuy (ze vallen onder hetzelfde moederbedrijf), maar de laatste tijd minder populair omdat de focus meer op Superbuy ligt.
+## 🔍 Gedetailleerde Analyse per Agent
 
-Maar let op...
+### 1. JingSourcing (De Industrie Standaard)
+JingSourcing is een van de grootste en meest professionele sourcingbureaus in China, specifiek gericht op e-commerce verkopers.
+
+* **Hoe het werkt:** Je krijgt een vaste, Engelssprekende agent toegewezen. Zij zoeken gratis bij tot wel 20 verschillende fabrieken naar de beste prijs en kwaliteit voor jouw product.
+* **Kwaliteitscontrole:** Zeer streng. Ze controleren niet alleen de buitenkant, maar kunnen ook de werking testen en CE-certificaten valideren voor de Europese markt.
+* **Kostenstructuur:** Gratis product sourcing. Ze vragen pas een commissie (tussen de 5% en 10%) over de totale productwaarde zodra je daadwerkelijk een bestelling plaatst.
+* **🎯 Vooral geschikt voor:** Ondernemers die direct groter willen inkopen (100+ stuks), een eigen logo op het product willen (Private Label) en een op maat gemaakt doosje willen laten ontwerpen.
+
+### 2. Supplyia (De Flexibele Partner)
+Supplyia biedt nagenoeg dezelfde zakelijke diensten als JingSourcing, maar stelt zich vaak een stuk flexibeler op richting kleinere, startende ondernemers.
+
+* **Hoe het werkt:** Zij blinken uit in communicatie en het samenvoegen van producten. Als je bijvoorbeeld oorkappen bij Fabriek A koopt en een opbergtasje bij Fabriek B, voegen zij dit in hun magazijn samen tot één productset.
+* **Kostenstructuur:** Werken eveneens met een commissiemodel (gemiddeld 5% tot 8%) afhankelijk van het ordervolume.
+* **🎯 Vooral geschikt voor:** Startende e-commerce verkopers die nog geen duizenden euro's budget hebben, maar wel de persoonlijke service van een zakelijke agent willen voor hun kwaliteitscontrole.
+
+### 3. Greetbuy (De Hybride Oplossing)
+Greetbuy is een unieke speler die het midden houdt tussen een consumenten-proxy (zoals Superbuy) en een zakelijke B2B agent.
+
+* **Hoe het werkt:** Ze hebben een geautomatiseerd platform waar je zelf links van 1688.com kunt plakken, maar bieden op de achtergrond uitgebreide logistieke B2B-services aan.
+* **Kostenstructuur:** Je betaalt de vaste productprijs op de website + een klein percentage handlingskosten en de internationale verzendkosten.
+* **🎯 Vooral geschikt voor:** De absolute testfase. Ideaal als je slechts 10 tot 30 stuks wilt inkopen om de markt op Bol.com te testen, zonder dat je direct met contracten of minimale orderwaardes van grote bureaus te maken wilt hebben.
+
+---
+
+## 💡 Strategisch Advies voor de Gehoorbeschermers (Bol.com)
+
+1. **Fase 1 (De Testfase - 10 tot 50 stuks):** Gebruik **Greetbuy** (of een proxy zoals Superbuy). Hiermee koop je snel de minimale afname (MOQ) van 10 stuks via 1688 om de kwaliteit fysiek in Nederland te controleren en de eerste verkopen op te starten.
+2. **Fase 2 (Opschalen & Branden - 100+ stuks):** Stap over naar **JingSourcing** of **Supplyia**. Laat hen onderhandelen met de fabriek voor een lagere inkoopprijs, laat je eigen merklogo op de oorkappen drukken en regel een veilige **DDP (Delivered Duty Paid)** verzending inclusief douane-afhandeling naar Nederland.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 1- Shopping/Proxy Agents?
+
+  **- De bekende partijen:**
+
+    - > **Superbuy:** Dit is momenteel een van de meest betrouwbare en stabiele 'consumenten-agenten'.<br>
+                      Ze zijn iets duurder met servicekosten, maar hun klantenservice is uitstekend en hun inspectiefoto's (Quality Check) zijn heel nauwkeurig.
+
+    - > **Sugargoo:** Staat bekend als de budgetvriendelijke optie. Hun interface is soms wat minder modern,<br> 
+                      maar hun internationale verzendtarieven naar Europa (Nederland) behoren vaak tot de goedkoopste.
+
+    - > Wegobuy: Erg vergelijkbaar met Superbuy (ze vallen onder hetzelfde moederbedrijf),<br>
+                 maar de laatste tijd minder populair omdat de focus meer op Superbuy ligt.
+
+  **- Maar let op...**
+
 De bovenstaande agents zijn eigenlijk ontworpen voor consumenten die een paar kledingstukken of gadgets in China kopen. Omdat jij een B2B-ondernemer (Bol.com) bent, kun je voor grotere volumes (bijv. 50+ stuks) beter overstappen op een professionele B2B Sourcing Agent / Freight Forwarder (zoals JingSourcing, Supplyia of Greetbuy). Zij kunnen veel beter onderhandelen over de prijs, controleren de kwaliteit op groothandelsniveau en regelen de juiste douanepapieren (handig voor je btw-aangifte).
 
 2. Direct via 1688 regelen of via een Agent?
+3. 
 Het korte antwoord: Je moet absoluut via een agent (of freight forwarder) werken.
 
 Het is op de 1688-website zelf voor buitenlanders nagenoeg onmogelijk om de verzending naar Nederland rechtstreeks te regelen. Dit heeft drie redenen:
@@ -349,7 +424,15 @@ Plak de link van de 1688-pagina in de zoekbalk van de agent.
 Geef bij de agent aan hoeveel stuks je wilt.
 
 Laat de producten eerst naar hun magazijn in China sturen. Zodra zij de foto's sturen en alles er perfect uitziet, kies je voor een veilige verzendlijn naar Nederland (bij voorkeur een 'Tax-Free' of 'DDP' lijn).
+<hr>
 
+
+
+
+
+
+
+1. Het addertje onder het gras: Volumegewicht (Dimensional Weight)Bij snelle luchtvracht rekenen transporteurs niet alleen met het échte gewicht op de weegschaal, maar ook met de ruimte die een doos inneemt. Ze gebruiken hiervoor de formule:$$\text{Volumegewicht in kg} = \frac{\text{Lengte} \times \text{Breedte} \times \text{Hoogte (in cm)}}{5000}$$Als we kijken naar de pakketmaat van jouw leverancier (image_d82d2b.png): $20 \times 15 \times 25\text{ cm}$.Het échte gewicht op de weegschaal is: $1,0\text{ kg}$.Het volumegewicht van diezelfde doos is: $\frac{20 \times 15 \times 25}{5000} = \mathbf{1,5\text{ kg}}$.Omdat het volumegewicht ($1,5\text{ kg}$) hoger is dan het werkelijke gewicht ($1,0\text{ kg}$), gaat de transporteur jou factureren voor $1,5\text{ kg}$ per stuk!2. Is je transportprijs in de winstmachine nu juist?Laten we de rekensom maken voor jouw 346 stuks (image_d82d29.png):Totaal belastbaar gewicht: $346 \text{ stuks} \times 1,5\text{ kg} = \mathbf{519\text{ kg}}$.Als je rekent met jouw tarief van €4,- per kilo: $519\text{ kg} \times €4,- = \mathbf{€2.076,-}$.In jouw winstmachine staat nu €1.533,- ingevuld bij de transportkosten (image_d82d29.png).Als we die €1.533,- delen door de 519 kg, kom je uit op zo'n €2,95 per kilo.
 
 
 
