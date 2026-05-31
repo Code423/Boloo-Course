@@ -218,7 +218,7 @@ Learning Online Sale
 
     # Blueprint Map - Punten Invullen
   
-    **1- Eigenschap 1: Het puntensysteem voor de "KOLOM" (WINST)**
+    **1- Het puntensysteem voor de "KOLOM" (WINST)**
   
       Je minimale winst verhoog je met 100%
       Stel, je minimale winst is 400 euro
@@ -248,7 +248,7 @@ Learning Online Sale
       - 2-5 concurrenten (4 punten)
       - 0-1 concurrenten (5 punten)
  <hr>
-    4- Eigenschap 4: Geen concurrenten of een onderscheidend product dat nog niet op bol.com staat? "KOLOM" (TOP OMZET)<br>
+    4- Eigenschap 3: Geen concurrenten of een onderscheidend product dat nog niet op bol.com staat? "KOLOM" (TOP OMZET)<br>
 
       - Geef de punten gebaseerd op de totale omzet van de top aanbieders.<br>
       Soortgelijke producten die dezelfde vraag oplossen:
@@ -259,13 +259,13 @@ Learning Online Sale
       - 30-40 - Duizend € (4 punten)
       - 40+ - Duizend € (5 punten)
 <hr>
-    5- Eigenschap 5: Ga je het product intrinsiek veranderen? "KOLOM" (OV)
+    5- Eigenschap 4: Ga je het product intrinsiek veranderen? "KOLOM" (OV)
 
       Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.<br>
       Ja: 1<br>
       Nee: 0
 <hr>
-    6- Eigenschap 6: Verkoopprijs vand de product verhoging als je hem zou verbeteren of iets ertoe wil voegen "KOLOM" (HIGH TICKET)<br>
+    6- Eigenschap 5: Verkoopprijs vand de product verhoging als je hem zou verbeteren of iets ertoe wil voegen "KOLOM" (HIGH TICKET)<br>
     
           Bijv: Een set of de kleur, combineren met andere product....<br>
           Is het een high-ticket product of een goedkoop product?
@@ -273,7 +273,7 @@ Learning Online Sale
       - High ticket product: 1 (HOOG PRIJS = HIGH TICKET)
       - Goedkoop product: 0
 <hr>
-    7- Eigenschap 7: Wat is de kwaliteit van de listings? "KOLOM" (LISTING)<br>
+    7- Eigenschap 6: Wat is de kwaliteit van de listings? "KOLOM" (LISTING)<br>
        Check 3-5 listing van de concurrenten te beoordelen.<br>
     Hierdoor heb je een onderscheidend vermogen, iets dat de rest niet heeft.
 
@@ -284,7 +284,7 @@ Learning Online Sale
       5- Slecht<br>
       Had je het zelf gekocht?
 <hr>
-    8- Eigenschap 8: Seizoensgebonden "KOLOM" (SEIZOEN)
+    8- Eigenschap 7: Seizoensgebonden "KOLOM" (SEIZOEN)
   
       Wordt het product het hele jaar door verkocht, maar is er
       een periode dat het product aanzienlijk meer sales heeft?<br>
@@ -295,41 +295,71 @@ Learning Online Sale
       Ja: 2<br>
       Nee: 0
 <hr>
-    9- Eigenschap 9: Niche uitbreiding "KOLOM" (NICH UIBREIDING)
+    9- Eigenschap 7: Niche uitbreiding "KOLOM" (NICH UIBREIDING)
         
       Is dit een product in een niche waar jij je uit kunt breiden
       met een merk in de toekomst?<br>
       Ja: 1<br>
       Nee: 0
 <hr>
-    10- Eigenschap 10: Track record fabriek **"KOLOM" (FABRIEK)**
+    10- Eigenschap 9: Track record fabriek **"KOLOM" (FABRIEK)**
   
       Heeft het product de juiste MOQ en wat is de track record van de fabriek?
       
       Kijk naar: omzet, communicatie snelheid, gold supplier, reviews,
       orders export landen.<br>
       
-      Goed: 1
+      Goed: 1<br>
       Slecht: 0
 <hr>
-    11- Eigenschap 11: Hoe stabiel is de omzet/sales over de afgelopen 6 maanden? "KOLOM" (STABILITEIT)<br>
+    11- Eigenschap 4: Hoe stabiel is de omzet/sales over de afgelopen 6 maanden? "KOLOM" (STABILITEIT)<br>
     
-      Extreem onstabiel (1 punt):
-      De omzet stort volledig in naar bijna 0, of er is maar één goede maand geweest en de rest doet niks.
+      Extreem onstabiel (1 punt): De omzet stort volledig in naar bijna 0, of er is maar één goede maand geweest en de rest doet niks.
   
-      Grote schommelingen / Sterk seizoensgebonden (2 punten):
-      Heel grillig verloop met gigantische drops (bijvoorbeeld maanden waarin de omzet meer dan halveert ten opzichte van de topmaand).
+      Grote schommelingen / Sterk seizoensgebonden (2 punten): Heel grillig verloop met gigantische drops (bijvoorbeeld maanden waarin de omzet meer dan halveert ten          opzichte van de topmaand).
       
-      Gemiddelde stabiliteit (3 punten):
-      Er zijn duidelijke pieken en dalen zichtbaar, maar er blijft wel elke maand een gezonde basisomzet binnenkomen.
+      Gemiddelde stabiliteit (3 punten): Er zijn duidelijke pieken en dalen zichtbaar, maar er blijft wel elke maand een gezonde basisomzet binnenkomen.
       
-      Stabiel (4 punten):
-      Lichte schommelingen per maand, maar de trend blijft stabiel of laat een rustige, constante groei zien.
+      Stabiel (4 punten): Lichte schommelingen per maand, maar de trend blijft stabiel of laat een rustige, constante groei zien.
       
-      Zeer stabiel (5 punten):
-      Vrijwel elke maand dezelfde hoge omzet. De balken zijn bijna even lang (een strakke, rechte lijn).
+      Zeer stabiel (5 punten): Vrijwel elke maand dezelfde hoge omzet. De balken zijn bijna even lang (een strakke, rechte lijn).
 
 ---
+
+# - Module 18: Producten inkopen bij leveranciers | Chinese Leveranciers: Een Wereld van Verschil CN
+
+Het sourcen van producten uit China biedt enorme kansen, maar vereist een goed begrip van de geografische en organisatorische verschillen. Elke regio heeft zijn eigen unieke krachten, specialiteiten en ecosystemen.
+
+---
+
+## 📍 Regio's & Hun Specialiteiten
+China is gigantisch en de productie is sterk geclusterd per regio. Hier zijn de bekendste e-commerce en productie-hubs:
+
+* **Shenzhen** – De tech-hoofdstad van de wereld (elektronica, gadgets, hardware en IoT).
+* **Shanghai** – Wereldwijd financieel centrum en logistieke hub (textiel, zware industrie, machines).
+* **Hong Kong** – De internationale poort (logistiek, vrijhandel, financiën en handelsservices).
+* **Guangzhou** – Kleding, mode-accessoires, cosmetica, speelgoed en consumentengoederen.
+* **Ningbo** – Grote havenstad (kunststoffen, huishoudelijke apparaten, auto-onderdelen).
+* **Tianjin** – Noordelijke logistieke en industriële hub (chemie, mechanische producten, textiel).
+
+---
+
+## 🏢 Fabrieken vs. Trading Companies
+Bij het inkopen via platformen zoals Alibaba kom je twee hoofdtypen leveranciers tegen:
+
+1. **Fabrieken (Manufacturers):** Directe productie, lagere stukprijzen, maar vaak hogere Minimale Bestelhoeveelheden (MOQ). Ideaal voor private label en unieke productaanpassingen.
+2. **Trading Companies (Handelsondernemingen):** Tussenpersonen met een breder assortiment, lagere MOQ's en vaak een betere communicatie of service, maar met een ingebouwde winstmarge op de productprijs.
+
+---
+
+## 📚 Meer over China & Alibaba Weten?
+Wil je dieper in de wereld van Chinese e-commerce en supply chains duiken?
+
+📖 **Aanbevolen literatuur:** *Alibaba: The House That Jack Ma Built* – geschreven door Duncan Clark. Dit boek biedt een fascinerende blik op het ontstaan en de cultuur van het grootste e-commerce imperium ter wereld.
+
+---
+
+# TrasnPort Agenten:
 
 ## 📊 Snel Overzicht & Vergelijking
 
