@@ -314,7 +314,7 @@ Learning Online Sale
 <hr>
     11- Eigenschap 4: Hoe stabiel is de omzet/sales over de afgelopen 6 maanden? "KOLOM" (STABILITEIT)<br>
     
-      Extreem onstabiel (1 punt): De omzet stort volledig in naar bijna 0, of er is maar één goede maand geweest en de rest doet niks.
+      Extreem onstabiel (1 punt):<br>De omzet stort volledig in naar bijna 0, of er is maar één goede maand geweest en de rest doet niks.
   
       Grote schommelingen / Sterk seizoensgebonden (2 punten): Heel grillig verloop met gigantische drops (bijvoorbeeld maanden waarin de omzet meer dan halveert ten          opzichte van de topmaand).
       
