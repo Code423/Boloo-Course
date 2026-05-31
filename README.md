@@ -312,10 +312,17 @@ Learning Online Sale
       Goed: 1<br>
       Slecht: 0
 <hr>
-
-# 🇨🇳 B2B Sourcing Agents Vergelijking (China naar Nederland)
-
-Dit document bevat een overzicht en vergelijking van de meest populaire B2B Sourcing Agents in China voor e-commerce ondernemers (zoals Bol.com en Amazon verkopers). 
+    11- Eigenschap 4: Hoe stabiel is de omzet/sales over de afgelopen 6 maanden? "KOLOM" (STABILITEIT)<br>
+    
+      Extreem onstabiel (1 punt): De omzet stort volledig in naar bijna 0, of er is maar één goede maand geweest en de rest doet niks.
+  
+      Grote schommelingen / Sterk seizoensgebonden (2 punten): Heel grillig verloop met gigantische drops (bijvoorbeeld maanden waarin de omzet meer dan halveert ten          opzichte van de topmaand).
+      
+      Gemiddelde stabiliteit (3 punten): Er zijn duidelijke pieken en dalen zichtbaar, maar er blijft wel elke maand een gezonde basisomzet binnenkomen.
+      
+      Stabiel (4 punten): Lichte schommelingen per maand, maar de trend blijft stabiel of laat een rustige, constante groei zien.
+      
+      Zeer stabiel (5 punten): Vrijwel elke maand dezelfde hoge omzet. De balken zijn bijna even lang (een strakke, rechte lijn).
 
 ---
 
