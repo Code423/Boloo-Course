@@ -309,20 +309,25 @@ Learning Online Sale
       Kijk naar: omzet, communicatie snelheid, gold supplier, reviews,
       orders export landen.<br>
       
-      Goed: 1<br>
+      Goed: 1
       Slecht: 0
 <hr>
     11- Eigenschap 4: Hoe stabiel is de omzet/sales over de afgelopen 6 maanden? "KOLOM" (STABILITEIT)<br>
     
-      Extreem onstabiel (1 punt):<br>De omzet stort volledig in naar bijna 0, of er is maar één goede maand geweest en de rest doet niks.
+      Extreem onstabiel (1 punt):
+      De omzet stort volledig in naar bijna 0, of er is maar één goede maand geweest en de rest doet niks.
   
-      Grote schommelingen / Sterk seizoensgebonden (2 punten): Heel grillig verloop met gigantische drops (bijvoorbeeld maanden waarin de omzet meer dan halveert ten          opzichte van de topmaand).
+      Grote schommelingen / Sterk seizoensgebonden (2 punten):
+      Heel grillig verloop met gigantische drops (bijvoorbeeld maanden waarin de omzet meer dan halveert ten opzichte van de topmaand).
       
-      Gemiddelde stabiliteit (3 punten): Er zijn duidelijke pieken en dalen zichtbaar, maar er blijft wel elke maand een gezonde basisomzet binnenkomen.
+      Gemiddelde stabiliteit (3 punten):
+      Er zijn duidelijke pieken en dalen zichtbaar, maar er blijft wel elke maand een gezonde basisomzet binnenkomen.
       
-      Stabiel (4 punten): Lichte schommelingen per maand, maar de trend blijft stabiel of laat een rustige, constante groei zien.
+      Stabiel (4 punten):
+      Lichte schommelingen per maand, maar de trend blijft stabiel of laat een rustige, constante groei zien.
       
-      Zeer stabiel (5 punten): Vrijwel elke maand dezelfde hoge omzet. De balken zijn bijna even lang (een strakke, rechte lijn).
+      Zeer stabiel (5 punten):
+      Vrijwel elke maand dezelfde hoge omzet. De balken zijn bijna even lang (een strakke, rechte lijn).
 
 ---
 
