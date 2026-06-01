@@ -412,8 +412,8 @@ Bij internationale vracht (vooral luchtvracht) berekenen transporteurs de kosten
 | :--- | :--- | :--- |
 | **Afmeting per stuk** | 20 × 15 × 25 cm | Formaat van de productverpakking |
 | **Werkelijk gewicht** | 1,0 kg | Gewicht op de weegschaal |
-| **Volumegewicht** | **1,5 kg** | Formule: `(20 × 15 × 25) / 5000` |
-| **Totaal belastbaar gewicht** | **519 kg** | 346 stuks × 1,5 kg (dit gewicht wordt afgerekend) |
+| **Volumegewicht** | **1,250 kg** | Formule: `(20 × 15 × 25) / 0.006` |
+| **Totaal belastbaar gewicht** | **519 kg** | 346 stuks × 1,250 kg (dit gewicht wordt afgerekend) |
 
 ---
 
