@@ -316,9 +316,9 @@ Learning Online Sale
     
       Extreem onstabiel (1 punt): De omzet stort volledig in naar bijna 0, of er is maar één goede maand geweest en de rest doet niks.
   
-      Grote schommelingen / Sterk seizoensgebonden (2 punten): Heel grillig verloop met gigantische drops (bijvoorbeeld maanden waarin de omzet meer dan halveert ten          opzichte van de topmaand).
+      Grote schommelingen / Sterk seizoensgebonden (2 punten): Heel grillig verloop met gigantische drops<br>(bijvoorbeeld maanden waarin de omzet meer dan halveert ten opzichte van de topmaand).
       
-      Gemiddelde stabiliteit (3 punten): Er zijn duidelijke pieken en dalen zichtbaar, maar er blijft wel elke maand een gezonde basisomzet binnenkomen.
+      Gemiddelde stabiliteit (3 punten): Er zijn duidelijke pieken en dalen zichtbaar,<br>maar er blijft wel elke maand een gezonde basisomzet binnenkomen.
       
       Stabiel (4 punten): Lichte schommelingen per maand, maar de trend blijft stabiel of laat een rustige, constante groei zien.
       
